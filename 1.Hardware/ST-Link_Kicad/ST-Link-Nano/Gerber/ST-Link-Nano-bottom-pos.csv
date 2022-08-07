@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C2","100nF","C_0402_1005Metric",-93.755858,-94.912503,90.000000,bottom
+"C3","1uF","C_0402_1005Metric",-98.997563,-94.889678,90.000000,bottom
+"U1","XC6210B332MR","SOT-23-5",-96.351428,-94.424751,0.000000,bottom
+"Y1","Crystal_GND24_Small","Crystal_SMD_3225-4Pin_3.2x2.5mm",-102.467158,-92.072789,90.000000,bottom
